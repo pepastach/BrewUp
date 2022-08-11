@@ -22,7 +22,7 @@ brew "dive"
 brew "dnscrypt-proxy"
 brew "fzf"
 brew "gcc"
-brew "jpeg"
+brew "jpeg", link: true
 brew "openblas"
 brew "gdal"
 brew "git"
