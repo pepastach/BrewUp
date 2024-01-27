@@ -28,7 +28,7 @@ brew "git-lfs"
 brew "gnu-sed"
 brew "graphviz"
 brew "htop"
-brew "jpeg", link: true
+brew "jpeg"
 brew "jq"
 brew "lightgbm"
 brew "lsd"
