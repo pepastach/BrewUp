@@ -78,3 +78,10 @@ cask "syncthing"
 cask "transmission"
 cask "xbar"
 cask "yubico-yubikey-manager"
+mas "AdGuard for Safari", id: 1440147259
+mas "Bitwarden", id: 1352778147
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Okta Extension App", id: 1439967473
+mas "Pages", id: 409201541
+mas "Slack", id: 803453959
