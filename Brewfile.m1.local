@@ -1,7 +1,6 @@
 tap "garethgeorge/backrest-tap"
 tap "homebrew/bundle"
 tap "homebrew/services"
-tap "osx-cross/arm"
 tap "osx-cross/avr"
 tap "qmk/qmk"
 tap "romkatv/powerlevel10k"
