@@ -8,6 +8,7 @@ brew "apache-arrow"
 brew "awscli"
 brew "bash"
 brew "bat"
+brew "btop"
 brew "cmake"
 brew "coreutils"
 brew "csview"
@@ -70,25 +71,24 @@ brew "zsh-autosuggestions"
 cask "brave-browser"
 cask "calibre"
 cask "docker"
-cask "double-commander"
 cask "font-hack-nerd-font"
 cask "gramps"
+cask "gzdoom"
 cask "iina"
+cask "ioquake3"
 cask "iterm2"
 cask "jellyfin-media-player"
 cask "kopiaui"
+cask "lagrange"
 cask "obsidian"
-cask "openemu"
 cask "protonvpn"
 cask "rar"
 cask "rectangle"
 cask "session-manager-plugin"
-cask "transmission"
-cask "xbar"
 cask "yubico-yubikey-manager"
 mas "AdGuard for Safari", id: 1440147259
 mas "Amphetamine", id: 937984704
-mas "Gifski", id: 1351639930
+mas "GRID™ Legends", id: 1636273501
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
 mas "Okta Extension App", id: 1439967473
