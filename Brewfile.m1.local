@@ -87,7 +87,6 @@ cask "protonvpn"
 cask "rar"
 cask "rectangle"
 cask "session-manager-plugin"
-cask "yubico-yubikey-manager"
 mas "AdGuard for Safari", id: 1440147259
 mas "Amphetamine", id: 937984704
 mas "GRID™ Legends", id: 1636273501
