@@ -24,8 +24,6 @@ brew "coreutils"
 brew "csview"
 # Tool for exploring each layer in a docker image
 brew "dive"
-# Pack, ship and run any application as a lightweight container
-brew "docker", link: false
 # Make creating custom firmwares for ESP32/ESP8266 super easy
 brew "esphome"
 # EXIF and IPTC metadata manipulation library and tools
