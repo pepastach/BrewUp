@@ -1,5 +1,3 @@
-tap "garethgeorge/backrest-tap"
-tap "osx-cross/avr"
 tap "qmk/qmk"
 tap "romkatv/powerlevel10k"
 # Cryptography and SSL/TLS Toolkit
@@ -64,8 +62,6 @@ brew "graphviz"
 brew "htop"
 # Tools and libraries to manipulate images in select formats
 brew "imagemagick"
-# Update of iperf: measures TCP, UDP, and SCTP bandwidth
-brew "iperf3"
 # Json incremental digger
 brew "jid"
 # Image manipulation library
@@ -104,8 +100,6 @@ brew "pipx"
 brew "podman"
 # Theme for zsh
 brew "powerlevel10k"
-# Secure and efficient FTP server
-brew "pure-ftpd"
 # Python version management
 brew "pyenv"
 # Tools for and transforming and inspecting PDF files
