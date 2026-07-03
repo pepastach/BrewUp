@@ -1,5 +1,5 @@
-tap "qmk/qmk"
-tap "romkatv/powerlevel10k"
+tap "qmk/qmk", trusted: true
+tap "romkatv/powerlevel10k", trusted: true
 # Cryptography and SSL/TLS Toolkit
 brew "openssl@3"
 # General-purpose data compression with high compression ratio
@@ -88,8 +88,10 @@ brew "ncdu"
 brew "nmap"
 # Manage multiple Node.js versions
 brew "nvm"
+# Create, run, and share large language models (LLMs)
+brew "ollama"
 # Development kit for the Java programming language
-brew "openjdk"
+brew "openjdk@25"
 # Shell command parallelization utility
 brew "parallel"
 # Pinentry for GPG on Mac
@@ -137,6 +139,8 @@ cask "calibre"
 cask "font-hack-nerd-font"
 # Terminal emulator that uses platform-native UI and GPU acceleration
 cask "ghostty"
+# Free and open-source image editor
+cask "gimp"
 # Genealogy software
 cask "gramps"
 # Adds an OpenGL renderer to the ZDoom source port
