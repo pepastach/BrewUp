@@ -72,8 +72,6 @@ brew "jq"
 brew "kopia"
 # Fast, distributed, high performance gradient boosting framework
 brew "lightgbm"
-# Next-gen compiler infrastructure
-brew "llvm@17"
 # Clone of ls with colorful output, file type icons, and more
 brew "lsd"
 # Mac App Store command-line interface
