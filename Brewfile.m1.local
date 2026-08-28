@@ -106,6 +106,8 @@ brew "pyenv"
 brew "qpdf"
 # Reattach process (e.g., tmux) to background
 brew "reattach-to-user-namespace"
+# Search tool like grep and The Silver Searcher
+brew "ripgrep"
 # Safe, concurrent, practical language
 brew "rust"
 # 7-Zip is a file archiver with a high compression ratio
@@ -168,14 +170,11 @@ cask "rectangle"
 mas "AdGuard for Safari", id: 1440147259
 mas "Amphetamine", id: 937984704
 mas "GRID™ Legends", id: 1636273501
-mas "Keynote", id: 409183694
 mas "Keynote", id: 361285480
 mas "LocalSend", id: 1661733229
 mas "Numbers", id: 361304891
-mas "Numbers", id: 409203825
 mas "Okta Extension App", id: 1439967473
 mas "Okta Verify", id: 490179405
-mas "Pages", id: 409201541
 mas "Pages", id: 361309726
 mas "Slack", id: 803453959
 mas "WireGuard", id: 1451685025
