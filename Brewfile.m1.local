@@ -87,8 +87,6 @@ brew "ncdu"
 brew "nmap"
 # Manage multiple Node.js versions
 brew "nvm"
-# Create, run, and share large language models (LLMs)
-brew "ollama"
 # Development kit for the Java programming language
 brew "openjdk@25"
 # Shell command parallelization utility
@@ -138,8 +136,6 @@ cask "brave-browser"
 # E-books management software
 cask "calibre"
 cask "font-hack-nerd-font"
-# Free and open-source image editor
-cask "gimp"
 # Genealogy software
 cask "gramps"
 # Adds an OpenGL renderer to the ZDoom source port
@@ -154,8 +150,6 @@ cask "iterm2"
 cask "jellyfin-media-player"
 # Backup/restore tool
 cask "kopiaui"
-# Desktop GUI client for browsing Geminispace
-cask "lagrange"
 # Open-source firewall to block unknown outgoing connections
 cask "lulu"
 # Knowledge base that works on top of a local folder of plain text Markdown files
@@ -164,10 +158,6 @@ cask "obsidian"
 cask "podman-desktop"
 # VPN client focusing on security
 cask "protonvpn"
-# Move and resize windows using keyboard shortcuts or snap areas
-cask "rectangle"
-# Build, run, and govern agents across the software development lifecycle
-cask "docker/tap/sbx", trusted: true
 mas "AdGuard for Safari", id: 1440147259
 mas "Amphetamine", id: 937984704
 mas "Keynote", id: 361285480
