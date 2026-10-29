@@ -1,6 +1,6 @@
-tap "docker/tap", trusted: true
 tap "qmk/qmk", trusted: true
-tap "romkatv/powerlevel10k", trusted: true
+# Plugin manager for zsh, inspired by antigen and antibody
+brew "antidote"
 # General-purpose data compression with high compression ratio
 brew "xz"
 # Columnar in-memory analytics layer designed to accelerate big data
@@ -15,6 +15,8 @@ brew "openssl@3"
 brew "bat"
 # Resource monitor. C++ version and continuation of bashtop and bpytop
 brew "btop"
+# Manage your dotfiles across multiple diverse machines, securely
+brew "chezmoi"
 # Cross-platform make
 brew "cmake"
 # GNU File, Shell, and Text utilities
@@ -27,6 +29,8 @@ brew "dive"
 brew "esphome"
 # EXIF and IPTC metadata manipulation library and tools
 brew "exiv2"
+# Modern, maintained replacement for ls
+brew "eza"
 # Play, record, convert, and stream select audio and video codecs
 brew "ffmpeg"
 # Command-line fuzzy finder written in Go
@@ -73,8 +77,6 @@ brew "jq"
 brew "kopia"
 # Fast, distributed, high performance gradient boosting framework
 brew "lightgbm"
-# Clone of ls with colorful output, file type icons, and more
-brew "lsd"
 # Mac App Store command-line interface
 brew "mas"
 # Modern and intuitive terminal-based text editor
@@ -127,8 +129,6 @@ brew "watch"
 brew "zlib"
 # UNIX shell (command interpreter)
 brew "zsh"
-# Fish-like fast/unobtrusive autosuggestions for zsh
-brew "zsh-autosuggestions"
 # Web browser focusing on privacy
 cask "brave-browser"
 # E-books management software
