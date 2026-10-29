@@ -134,6 +134,8 @@ cask "brave-browser"
 # E-books management software
 cask "calibre"
 cask "font-hack-nerd-font"
+# Terminal emulator that uses platform-native UI and GPU acceleration
+cask "ghostty"
 # Genealogy software
 cask "gramps"
 # Adds an OpenGL renderer to the ZDoom source port
